@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+:root{
+  --color-one:#005baa;
+  --font-family:"Inter", sans-serif; 
+}
+*{
+  box-sizing: border-box;
+  font-family: var(--font-family);
+}
+a{
+  color: black;
+  font-weight: 500;
+  font-size: 18px;
+    text-decoration: none;
+}
+ul{
+  list-style: none;
+}
+ 
+.inner-box{
+  margin: 0;
+  padding: 0;
+}
